@@ -1,0 +1,194 @@
+{
+    "app": {
+        "header": {
+            "donateButton": "Doar"
+        },
+
+        "dockNavBar": {
+            "homeButton": "Início",
+            "faqButton": "FAQs",
+            "resourcesButton": "Recursos",
+            "galleryButton": "Galeria",
+            "aboutButton": "Sobre"
+        },
+
+        "footer": {
+            "titlesColumn": {
+                "socialLinksTitle": "Links Sociais",
+                "creditsTitle": "Créditos"
+            },
+            "finalMessage": "O AI mage é um projeto que visa disponibilizar uma forma de criar imagens de forma gratuita para todos os usuários. Em um mundo dominado pela ganância, hoje é difícil encontrar uma ferramenta de IA verdadeiramente grátis ou sem uma assinatura muito cara, mas, o AImage e outros projetos como este visam abraçar a comunidade e não ao dinheiro. Agradeço a todos que usam e apoiam este projeto, e agradeço também a equipe da Pollinations.ai por democratizar a IA e disponibilizar uma API acessível, sem eles, este e muitos outros projetos não existiriam."
+        },
+
+        "pages": {
+            "home": {
+                "mainContent": {
+                    "mainMessage": {
+                        "text": "Crie o que",
+                        "eyeText": "imaginar",
+                        "buttonText": "O AImage permite você gerar imagens de forma gratuita, ele é alimentado pela API da Pollinations.ai"
+                    },
+                    "butonsMain": {
+                        "buttonGoWebApp": {
+                            "title": "Acessar na Web",
+                            "description": "Acesse o site oficial do AImage"
+                        },
+                        "buttonDownloadApp": {
+                            "title": "Baixar para Android",
+                            "description": "Baixe o AImage para Android na Uptodown"
+                        }
+                    }
+                }
+            },
+            "faq": {
+                "mainPage": {
+                    "title": "FAQs - Perguntas frequentes",
+                    "description": "Uma seção com perguntas frequentes para tirar suas dúvidas sobre o AImage"
+                },
+                "sectionsQuestions": {
+                    "section1": {
+                        "title": "Perguntas gerais",
+                        "description": "Alguns perguntas gerais sobre o AImage",
+                        "questions": {
+                            "q1": {
+                                "question": "O que é o AImage?",
+                                "answer": "O AImage é uma app/site desenvolvido de forma independente, que visa disponibilizar uma ferramenta de geração de imagens com IA de forma gratuita se utilizando da API da Pollinations.ai."
+                            },
+                            "q2": {
+                                "question": "O AImage é realmente grátis?",
+                                "answer": "Sim, o AImage é realmente grátis, ele não possui nenhuma assinatura ou login, crie imagens a vontade sem se preocupar com nada."
+                            },
+                            "q3": {
+                                "question": "A geração de imagens é ilimitada?",
+                                "answer": "Não exatamente, o AImage por padrão usa uma versão da API da pollinations.ai que serve para ser exposta no código sem perigo, mas, ela tem uma pausa de 16 segundos pr IP que pode barrar algumas gerações de imagens e, uma API da pollinations.ai consome 'Pollen', isso é uma espécie de moeda, ela funsiona assim: 1 Pollen = n gerações de imagens/textos/audios/video dependendo do modelo de IA usado, mas não se asuste, os modelos de IA no AImage podem gerar mais de 8 mil imagens por dia e os polens são recarregados, mas como são várias pessoas diferentes usando a mesma API, permitiremos que você adicione sua própria API da pollinations.ai no AImage para consumir os Pollens de sua conta."
+                            },
+                            "q4": {
+                                "question": "É seguro afirmar que minhas gerações são privadas?",
+                                "answer": "Eu gostaria de afirmar isso, entretanto, a pollinations.ai não tem controle sobre o que o fornecedor do modelo pode ou não ver, portanto, não posso afirmar com certeza que suas gerações são totalmente privadas. Mas, por minha parte, eu não tenho acesso a nenhuma informação sobre o que é gerado no AImage."
+                            }
+                        }
+                    },
+                    "section2": {
+                        "title": "Tecnologia e IA",
+                        "description": "Alguns perguntas sobre a tecnologia e IA usadas no AImage",
+                        "questions": {
+                            "q1": {
+                                "question": "Quais modelos de IA são usados no AImage?",
+                                "answer": "Há três modelos, o Flux, Turmo e o Z-image, cada um com suas próprias limitações e vantagens."
+                            },
+                            "q2": {
+                                "question": "Modelo Flux, capacidades e limitações?",
+                                "answer": "O Flux é um modelo equilibrado, faz uma geração rápida e entega um bom resultado, entretanto, ele pode não ser bom em entender prompts de outras línguas diferentes do inglês."
+                            },
+                            "q3": {
+                                "question": "Modelo Turmo, capacidades e limitações?",
+                                "answer": "O Turbo é rápido, consegue entender melhor os prompts em línguas diferentes do inglês em comparação com o Flux, entretanto, as suas imagens podem ser meio inconsistentes e com elementos em formas estranhas e bagunçadas, mas, ele faz um ótimo trabalho em geral."
+                            },
+                            "q4": {
+                                "question": "Modelo Z-image, capacidades e limitações?",
+                                "answer": "O Z-image é o melhor entre os três modelos, suas imagens saem com uma qualidade notóriamente superior, ele consegue entender melhor os prompts em línguas diferentes do inglês em comparação com os outros modelos, mas, ele é o mais lento entre os três."
+                            }
+                        }
+                    },
+                    "section3": {
+                        "title": "Suporte e downloads",
+                        "description": "Alguns perguntas sobre o suporte e downloads do AImage",
+                        "questions": {
+                            "q1": {
+                                "question": "Como e onde posso apoiar o projeto?",
+                                "answer": "Atualmente o projeto pode ser apoiado no MyBuyACoffee do desenvolvedor, ele pode ser acessado no botão 'Doar' no topo do site."
+                            },
+                            "q2": {
+                                "question": "Como e onde posso baixar o AImage?",
+                                "answer": "Atualmente o projeto pode ser baixado na UpToDown, você pode voltar a tela inicial do site ou rolar até o rodapé na sessão de links e procurar por 'Download'."
+                            }
+                        }
+                    },
+                    "section4": {
+                        "title": "Criação de conteúdo",
+                        "description": "Alguns perguntas sobre a criação de conteúdo com o AImage",
+                        "questions": {
+                            "q1": {
+                                "question": "Posso usar as imagens geradas para fins comerciais?",
+                                "answer": "Sim, você pode usar as imagens geradas para fins comerciais, mas, lembre-se de que o AImage não é responsável por qualquer violação de direitos autorais ou direitos de propriedade intelectual."
+                            },
+                            "q2": {
+                                "question": "Eu consigo gerar imagens NSFW com o AImage?",
+                                "answer": "Sim, você consegue, entretanto, o AImage e nem os modelos de IA disponíveis não tem esse foco, os modelos conseguem gerar esse tipo de conteúdo, mas eles podem não sair como o esperado e, tenha em mente que você é o responsável por qualquer conteúdo gerado, então, mantenha a conformidade com as leis e regulamentos aplicáveis."
+                            }
+                        }
+                    },
+                    "section5": {
+                        "title": "API da Pollinations.ai",
+                        "description": "Alguns perguntas sobre a API da Pollinations.ai e como usa-la no AImage",
+                        "questions": {
+                            "q1": {
+                                "question": "Como posso obter a minha própria API da Pollinations.ai?",
+                                "answer": "Você pode obter a sua própria API da Pollinations.ai no site da Pollinations.ai, você pode acessar o site no botão 'API Pollinations.ai' no rodapé do site na sessão de links, apóis isso, crie sua conta no site e crie uma nova chave API para a sua conta."
+                            },
+                            "q2": {
+                                "question": "Como posso usar a minha API da Pollinations.ai no AImage?",
+                                "answer": "Você pode usar a API da Pollinations.ai no AImage, para isso, vá nas configurações do AImage, procure por 'Configurações da API', nisso, um modal irá abrir e mstrará um campo para você pôr sua chave API, depois é só clicar em salvar. OBS: caso queira voltar a usar a API padrão do AImage, basta remover a sua chave e deixar o campo do modal vazio, assim que você salvar, o AImage irá voltar a usar a API padrão."
+                            }
+                        }
+                    }
+                },
+
+                "finalPage": "Este é o fim das FAQs, lembre-se, essas perguntas e resposta vão ser atualizadas de acordo com que a comunidade precisar, então, eu espero que suas dúvidas sejam resolvidas."
+            },
+            "resources": {
+                "mainPage": {
+                    "title": "Recursos",
+                    "description": "Uma seção que mostra os recursos disponíveis no AImage"
+                },
+
+                "resourcesList": {
+                    "r1": {
+                        "title": "Múltiplas proporções de imagens",
+                        "description": "No AImage há a opção de gerar imagens em multiplas proporções, isso significa que você pode gerar imagens em proporções diferentes, como 1:1, 4:5, 16:9, entre outras."
+                    },
+                    "r2": {
+                        "title": "Múltiplos modelos de IA",
+                        "description": "No AImage não existe um único modelo de IA para a geração de imagens, ele tem 3 modelos disponíveis, sendo eles: Flux, Turbo e Z-image. Mais modelos podem chegar no futuro."
+                    },
+                    "r3": {
+                        "title": "Salvar imagens e prompts",
+                        "description": "No AImage há uma barra lateral em que nela ficará disponíveis os seus itens (imagens e prompts), as imagens aparecerão assim que elas forem geradas e os prompts podem ser salvos através das opções de 'Ações e Ferramentas' abaixo do campo de prompt."
+                    },
+                    "r4": {
+                        "title": "Traduzir prompt para o inglês",
+                        "description": "Algumas IAs entendem melhor o prompt se ele estiver em inglês, com isso o AImage possui uma ferramenta nas opções de 'Ações e Ferramentas' abaixo do campo de prompt que irá traduzir o prompt para o inglês usando IA, assim fica mais fácil para você gerar imagens melhores."
+                    },
+                    "r5": {
+                        "title": "Suporte para adicionar a sua API da Pollinations.ai",
+                        "description": "O AImage funciona através da API da Pollinations.ai, com isso, você pode adicionar a sua API da Pollinations.ai no AImage para que ele possa usar a sua API para gerar imagens."
+                    },
+                    "r6": {
+                        "title": "Ferramenta de melhorar prompts",
+                        "description": "No AImage, há uma ferramenta de melhorar prompts com IA que irá ajudar você a melhorar seus prompts, ela irá analisar o prompt que você digitou e irá fazer melhorias nele, para que ele possa gerar imagens melhores e mais consistentes."
+                    }
+                },
+                "finalPage": "Estes são os recursos disponíveis até agora, mas futuros recursos chegarão com o tempo."
+            },
+            "gallery": {
+                "mainPage": {
+                    "title": "Galeria",
+                    "description": "Uma seção que mostra algumas imagens geradas pelo AImage"
+                },
+                "finalMessage": "Estes são alguns dos exemplos de imagens geradas pelo AImage, gostou? Se sim, baixe ou acesse o site do AImage e crie suas próprias imagens!"
+            },
+            "about": {
+                "mainPage": {
+                    "title": "Sobre",
+                    "description": "Uma seção que fala um pouco sobre o projeto"
+                },
+
+                "paragraphs": {
+                    "p1": "O AImage foi desenvolvido por apenas uma pessoa, Lucas Antônio (LuquinhasAMC), um desenvolvedor front-end que iniciou sua jornada no ramo da programação no início de 2025, e o AImage é o seu maior projeto até agora.",
+                    "p2": "O AImage é um projeto que visa tornar a geração de imagens usando IA mais acessível para todos. Eu o desenvolvi pois já passei por dificuldades de encontrar plataformas que sejam realmente acessíveis, sou como todos vocês, sei o que é ter que ver cards de planos com valores absurdos e testes grátis de poucos dias ou uma limitação que deixa a plataforma quase inutilizável se não pagar. Sei que o AImage não é a melhor plataforma, mas, espero que ele seja útil e que ele cumpra seu papel e que a comunidade o abrace e ajude ele a evoluir.",
+                    "p3": "Agradeço desde já todos aqueles que usarem ou apoiarem o projeto, espero que tanhamos um ótimo futuro pela frente."
+                }
+            }
+        }
+    }
+}
